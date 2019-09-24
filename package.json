@@ -1,0 +1,25 @@
+{
+  "name": "simple-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch=./data/db.json",
+    "test": "jest --verbose",
+    "test-watch": "jest --verbose --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josephklause-401-advanced-javascript/simple-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josephklause-401-advanced-javascript/simple-api/issues"
+  },
+  "homepage": "https://github.com/josephklause-401-advanced-javascript/simple-api#readme",
+  "dependencies": {
+    "json-server": "^0.15.1"
+  }
+}
