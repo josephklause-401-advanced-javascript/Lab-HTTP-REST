@@ -8,6 +8,6 @@
 * [submission PR](https://github.com/josephklause-401-advanced-javascript/simple-api/pull/1)
 
 ### Documentation
-(cant get them to link)
-Checkout openapi-client-generated-documentation
-Checkout dynamic-html-documentation-generated 
+* [API docs html](./docs/dynamic-html-documentation-generated/docs/operations/DefaultApi.html)
+
+* [API docs](./docs/openapi-client-generated/openapi.json) 
