@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "json-server --watch=./data/db.json",
+    "start": "json-server ./data/db.json",
     "test": "jest --verbose",
     "test-watch": "jest --verbose --watchAll"
   },
