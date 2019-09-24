@@ -1,72 +1,72 @@
 {
   "categories": [
     {
-    "_id": 1,
-    "name": "brass",
-    "display_name": "brass",
-    "description": "bright shiny stuff" 
+      "_id": 1,
+      "name": "brass",
+      "display_name": "brass",
+      "description": "bright shiny stuff"
     },
     {
-    "_id": 2,
-    "name": "woodwinds",
-    "display_name": "woodwinds",
-    "description": "weird woody stuff" 
+      "_id": 2,
+      "name": "woodwinds",
+      "display_name": "woodwinds",
+      "description": "weird woody stuff"
     },
     {
-    "_id": 3,
-    "name": "strings",
-    "display_name": "strings",
-    "description": "other wierd woody stuff" 
+      "_id": 3,
+      "name": "strings",
+      "display_name": "strings",
+      "description": "other wierd woody stuff"
     },
     {
-    "_id": 4,
-    "name": "percussion",
-    "display_name": "percussion",
-    "description": "we hit this stuff" 
+      "_id": 4,
+      "name": "percussion",
+      "display_name": "percussion",
+      "description": "we hit this stuff"
     }
   ],
   "products": [
     {
-    "_id": 1,
-    "category": "brass",
-    "name": "trumpet",
-    "display_name": "trumpet",
-    "description": "high annoying tube" 
+      "_id": 1,
+      "category": "brass",
+      "name": "trumpet",
+      "display_name": "trumpet",
+      "description": "high annoying tube"
     },
     {
-    "_id": 2,
-    "category": "brass",
-    "name": "trombone",
-    "display_name": "trombone",
-    "description": "low loud slide tube" 
+      "_id": 2,
+      "category": "brass",
+      "name": "trombone",
+      "display_name": "trombone",
+      "description": "low loud slide tube"
     },
     {
-    "_id": 3,
-    "category": "woodwind",
-    "name": "piccolo",
-    "display_name": "piccolo",
-    "description": "shrilly thing" 
+      "_id": 3,
+      "category": "woodwind",
+      "name": "piccolo",
+      "display_name": "piccolo",
+      "description": "shrilly thing"
     },
     {
-    "_id": 4,
-    "category": "strings",
-    "name": "violin",
-    "display_name": "violin",
-    "description": "pretty high string thing" 
+      "_id": 4,
+      "category": "strings",
+      "name": "violin",
+      "display_name": "violin",
+      "description": "pretty high string thing"
     },
     {
       "_id": 5,
       "category": "strings",
       "name": "cello",
       "display_name": "cello",
-      "description": "low deep string" 
+      "description": "low deep string"
     },
     {
-    "_id": 6,
-    "category": "percussion",
-    "name": "bass drum",
-    "display_name": "bass drum",
-    "description": "big loud boom" 
+      "_id": 6,
+      "category": "percussion",
+      "name": "bass drum",
+      "display_name": "bass drum",
+      "description": "big loud boom"
     }
   ]
 }
