@@ -42,7 +42,7 @@
     },
     {
       "_id": 3,
-      "category": "woodwind",
+      "category": "woodwinds",
       "name": "piccolo",
       "display_name": "piccolo",
       "description": "shrilly thing"
