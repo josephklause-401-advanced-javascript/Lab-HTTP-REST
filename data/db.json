@@ -67,6 +67,13 @@
       "name": "bass drum",
       "display_name": "bass drum",
       "description": "big loud boom"
+    },
+    {
+      "_id": 7,
+      "category": "brass",
+      "name": "trumpet",
+      "display_name": "trumpet",
+      "description": "high annoying tube"
     }
   ]
 }
